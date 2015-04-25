@@ -1,7 +1,7 @@
 gd-proto Profiler
 =================
 
-A simple multi-platform intrusive C++ profiler. It's a part of the 
+A simple multi-platform intrusive C++ performance profiler. It's a part of the
 [gd-proto](https://github.com/iboB/gd-proto) project, but can be used as a stand 
 alone library.
 
