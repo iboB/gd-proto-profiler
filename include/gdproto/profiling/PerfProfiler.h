@@ -56,6 +56,8 @@ namespace gdproto
 
             // called when moving the traversal up a level
             virtual void up() {};
+            
+            virtual ~NodeTraverser() {};
         };
 
         // DFS traversal of all nodes
